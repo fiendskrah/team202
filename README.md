@@ -9,7 +9,7 @@
 
 
 #### A visual
-![bigdatahackathon4sd](https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/master/templates/img/Hackathon-Promot-Img-1.png?raw=true "Big Data Hackathon for San Diego 2022")  
+![bigdatahackathon4sd](https://health.clevelandclinic.org/wp-content/uploads/sites/3/2021/08/ExhaustionVSstroke-1291924515-770x533-1-745x490.jpg")  
 
 <img height="10%" width="80%" alt="hdma" src="https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/master/templates/img/hdma2.png?raw=true"> 
 
