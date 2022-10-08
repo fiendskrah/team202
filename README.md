@@ -9,9 +9,8 @@
 
 
 #### A visual
-![bigdatahackathon4sd](https://health.clevelandclinic.org/wp-content/uploads/sites/3/2021/08/ExhaustionVSstroke-1291924515-770x533-1-745x490.jpg")  
 
-<img height="10%" width="80%" alt="hdma" src="https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/master/templates/img/hdma2.png?raw=true"> 
+<img height="10%" width="80%" alt="hdma" src="https://health.clevelandclinic.org/wp-content/uploads/sites/3/2021/08/ExhaustionVSstroke-1291924515-770x533-1-745x490.jpg"> 
 
 
 #### Hackathon Theme(s) (check a box(es))
